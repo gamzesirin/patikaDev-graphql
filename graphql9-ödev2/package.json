@@ -1,0 +1,14 @@
+{
+	"description": "",
+	"dependencies": {
+		"apollo-server": "^3.12.1",
+		"apollo-server-core": "^3.12.1",
+		"graphql": "^16.8.1"
+	},
+	"devDependencies": {
+		"nodemon": "^3.0.1"
+	},
+	"scripts": {
+		"start": "nodemon index.js"
+	}
+}
